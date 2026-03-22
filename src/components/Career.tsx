@@ -15,44 +15,40 @@ const Career = () => {
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Full Stack Developer</h4>
-                <h5>Ikshan</h5>
+                <h4>Purchase Executive</h4>
+                <h5>Ankur lighting pvt ltd</h5>
               </div>
-              <h3>2020</h3>
+              <h3>August 2023 - Dec 2025</h3>
             </div>
-            <p>
-              Built 6+ complete applications using React.js. Integrated backend
-              authentication using Node.js & MongoDB. Created responsive UI/UX
-              and designed wireframes using Figma.
-            </p>
+            <ul style={{ paddingLeft: '20px', fontSize: 'var(--p1)', lineHeight: '1.5' }}>
+              <li>Creating and managing purchase orders</li>
+              <li>Following up with vendors for material and rates</li>
+              <li>Handling vendor communication and rate contribution</li>
+              <li>Managing files, documents, and purchase records</li>
+              <li>Conducting material audits and keeping records updated</li>
+              <li>Preparing reports and comparison sheets for management</li>
+              <li>Working on Google Sheets for data and reports</li>
+              <li>Using Tally Prime software for purchase voucher</li>
+            </ul>
           </div>
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Senior Full Stack Developer</h4>
-                <h5>Monocept (Max Life Insurance)</h5>
+                <h4>Purchase Assistant</h4>
+                <h5>Styleiin India Pvt Ltd</h5>
               </div>
-              <h3>2021</h3>
+              <h3>Apr 2023 - August 2023</h3>
             </div>
-            <p>
-              Led two development teams on Mpro, a large-scale insurance
-              operations platform. Developed multiple modules using React.js &
-              migrated critical functionalities to Node.js microservices.
-            </p>
-          </div>
-          <div className="career-info-box">
-            <div className="career-info-in">
-              <div className="career-role">
-                <h4>Full Stack Developer</h4>
-                <h5>Logic Loop</h5>
-              </div>
-              <h3>NOW</h3>
-            </div>
-            <p>
-              Building Solid, a proprietary low-code platform using Angular,
-              Next.js & NestJS. Delivering production-ready CMS-based projects
-              including e-commerce, CRM, and import-export automation systems.
-            </p>
+            <ul style={{ paddingLeft: '20px', fontSize: 'var(--p1)', lineHeight: '1.5', marginTop: '10px' }}>
+              <li>Creating purchase orders and managing records</li>
+              <li>Collecting vendor rates and handling negotiations</li>
+              <li>Preparing rate comparison sheets for decision-making</li>
+              <li>Managing files and documentation systematically</li>
+              <li>Handling material requirement from start to end</li>
+              <li>Updating inventory and material records using CMS software</li>
+              <li>Writing professional emails and office communication</li>
+              <li>Comfortable in English texting and daily follow-ups</li>
+            </ul>
           </div>
         </div>
       </div>

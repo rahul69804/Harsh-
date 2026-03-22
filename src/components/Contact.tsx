@@ -10,51 +10,26 @@ const Contact = () => {
           <div className="contact-box">
             <h4>Email</h4>
             <p>
-              <a href="mailto:rajeshchittyal21@gmail.com" data-cursor="disable">
-                rajeshchittyal21@gmail.com
+              <a href="mailto:sakshichauhan8806@gmail.com" data-cursor="disable">
+                sakshichauhan8806@gmail.com
               </a>
             </p>
             <h4>Education</h4>
-            <p>BSc in Computer Science</p>
+            <p>BBA (FIA) pursuing Delhi University (2023 - 2026)</p>
           </div>
           <div className="contact-box">
-            <h4>Social</h4>
-            <a
-              href="https://github.com/raxx21"
-              target="_blank"
-              data-cursor="disable"
-              className="contact-social"
-            >
-              Github <MdArrowOutward />
+            <h4>Phone</h4>
+            <a href="tel:9354216385" data-cursor="disable" className="contact-social">
+              9354216385 <MdArrowOutward />
             </a>
-            <a
-              href="https://www.linkedin.com/in/rajesh-chityal-2a70141b3"
-              target="_blank"
-              data-cursor="disable"
-              className="contact-social"
-            >
-              Linkedin <MdArrowOutward />
-            </a>
-            <a
-              href="https://x.com/raxx21_official"
-              target="_blank"
-              data-cursor="disable"
-              className="contact-social"
-            >
-              Twitter <MdArrowOutward />
-            </a>
-            <a
-              href="https://www.instagram.com/therajeshchityal"
-              target="_blank"
-              data-cursor="disable"
-              className="contact-social"
-            >
-              Instagram <MdArrowOutward />
-            </a>
+            <h4>Address</h4>
+            <p style={{ marginTop: '10px' }}>
+              Near Hindon Airforce,<br />Mohan Nagar Ghaziabad
+            </p>
           </div>
           <div className="contact-box">
             <h2>
-              Designed and Developed <br /> by <span>Rajesh Chityal</span>
+              Designed and Developed <br /> by <span>Sakshi Chauhan</span>
             </h2>
             <h5>
               <MdCopyright /> 2025

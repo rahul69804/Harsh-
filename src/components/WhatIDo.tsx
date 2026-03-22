@@ -87,22 +87,17 @@ const WhatIDo = () => {
             <div className="what-corner"></div>
 
             <div className="what-content-in">
-              <h3>FRONTEND</h3>
-              <h4>Building Interactive UIs</h4>
+              <h3>SKILLS</h3>
+              <h4>Core Proficiencies</h4>
               <p>
-                Crafting performant, responsive interfaces with modern frameworks.
-                From SPAs to micro-frontends, I deliver pixel-perfect experiences.
+                Experienced in procurement operations, vendor management, and documentation.
+                Adept at utilizing modern software for tracking and record keeping.
               </p>
               <h5>Skillset & tools</h5>
               <div className="what-content-flex">
-                <div className="what-tags">React.js</div>
-                <div className="what-tags">Angular</div>
-                <div className="what-tags">Next.js</div>
-                <div className="what-tags">TypeScript</div>
-                <div className="what-tags">JavaScript</div>
-                <div className="what-tags">Material UI</div>
-                <div className="what-tags">HTML5</div>
-                <div className="what-tags">CSS3</div>
+                <div className="what-tags">Problem-solving</div>
+                <div className="what-tags">Team Collaboration</div>
+                <div className="what-tags">Time Management</div>
               </div>
               <div className="what-arrow"></div>
             </div>
@@ -126,22 +121,17 @@ const WhatIDo = () => {
             </div>
             <div className="what-corner"></div>
             <div className="what-content-in">
-              <h3>BACKEND</h3>
-              <h4>Scalable Server Architecture</h4>
+              <h3>HOBBIES</h3>
+              <h4>Personal Interests</h4>
               <p>
-                Designing robust APIs and microservices. From CMS platforms to
-                complex business logic, I build backends that scale.
+                Outside of work, I enjoy engaging in activities that foster creativity
+                and continuous learning.
               </p>
-              <h5>Skillset & tools</h5>
+              <h5>Activities</h5>
               <div className="what-content-flex">
-                <div className="what-tags">Node.js</div>
-                <div className="what-tags">NestJS</div>
-                <div className="what-tags">Express.js</div>
-                <div className="what-tags">MongoDB</div>
-                <div className="what-tags">PostgreSQL</div>
-                <div className="what-tags">REST APIs</div>
-                <div className="what-tags">Microservices</div>
-                <div className="what-tags">Python</div>
+                <div className="what-tags">Art</div>
+                <div className="what-tags">Reading</div>
+                <div className="what-tags">Travelling</div>
               </div>
               <div className="what-arrow"></div>
             </div>
